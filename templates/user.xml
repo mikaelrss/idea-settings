@@ -1,0 +1,41 @@
+<templateSet group="user">
+  <template name="cout" value="console.log($END$)" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="entest" value="import React from 'react';&#10;import { shallow } from 'enzyme';&#10;&#10;import $COMPONENT$ from './$COMPONENT$';&#10;&#10;describe('$COMPONENT$', () =&gt; {&#10;  const defaultProps = $TEST$&#10;    &#10;  it('shall match snapshot', () =&gt; {&#10;    const wrapper = shallow(&lt;$COMPONENT$ {...defaultProps}/&gt;);&#10;&#10;    expect(wrapper).toMatchSnapshot();&#10;  });&#10;&#10;  it('shall $END$', () =&gt; {&#10;&#10;  });&#10;});&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="substringBefore(fileNameWithoutExtension(), &quot;.&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST" expression="groovyScript(&quot;/Users/mikael/dev/liveTemplateScripts/defaultPropsGenerator.groovy&quot;, groovyScript(&quot;_editor.getVirtualFile().getPath()&quot;))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="console.log(wrapper.debug());" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="creact" value="// @flow&#10;&#10;import React, { Component } from 'react';&#10;&#10;type Props = {};&#10;&#10;type State = {};&#10;&#10;class $NAME$ extends Component&lt;Props, State&gt; {&#10;  render() {&#10;    return &lt;div /&gt;;&#10;  }&#10;}&#10;&#10;export default $NAME$;" description="React class with flow" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="wrap" value="const wrapper = shallow(&lt;$NAME$/&gt;);" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="substringBefore(fileNameWithoutExtension(), &quot;.&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lomdat" value="import lombok.AllArgsConstructor;&#10;import lombok.Data;&#10;import lombok.NoArgsConstructor;&#10;&#10;@Data&#10;@AllArgsConstructor&#10;@NoArgsConstructor" description="Adding lombok constructor annotations to lombok classes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="inst" value="wrapper.instance()" description="wrapper.instance()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
