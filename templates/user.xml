@@ -38,4 +38,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="cra" value="// @flow&#10;&#10;import React from 'react';&#10;&#10;type Props = {};&#10;&#10;const AllocationNavigationPopup = (props: Props) =&gt; {&#10;  return &lt;div /&gt;;&#10;};&#10;&#10;export default AllocationNavigationPopup;" description="React functional component" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
