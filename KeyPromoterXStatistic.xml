@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'⌃F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -17,6 +25,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -30,6 +46,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'AD-service'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'All Tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
