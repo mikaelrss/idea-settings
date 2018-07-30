@@ -17,6 +17,22 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="File">
+        <Item>
+          <IdeaActionID>NewFile</IdeaActionID>
+          <ShortCut>'⌃⌥Help'</ShortCut>
+          <Description>File</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
