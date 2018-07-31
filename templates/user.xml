@@ -44,4 +44,9 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="par" value="LocalDate.parse(&quot;$END$&quot;)" description="LocalDate.parse()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>

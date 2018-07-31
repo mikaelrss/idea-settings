@@ -386,4 +386,7 @@
   <template name="wid" value="widows:$END$;" description="widows:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="!" value="!important" description="!important" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
