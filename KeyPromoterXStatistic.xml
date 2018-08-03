@@ -150,7 +150,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DemandServiceSpec'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'DemandServiceSpec'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'GoogleAnalytics'">
