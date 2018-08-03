@@ -201,6 +201,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'DemandRoleServiceIntegrationSpec.Capaci…turn data for demands which are inactive'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'DemandRoleServiceIntegrationSpec.Capaci…turn data for demands which are inactive'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DemandServiceSpec'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
     </option>
