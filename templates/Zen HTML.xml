@@ -105,7 +105,4 @@
     <variable name="VAR3" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="out" value="&lt;output&gt;$END$&lt;/output&gt;" description="&lt;output&gt;...&lt;/output&gt;" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
 </templateSet>
