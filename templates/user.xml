@@ -22,7 +22,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="wrap" value="const wrapper = shallow(&lt;$NAME$/&gt;);" description="" toReformat="true" toShortenFQNames="true">
+  <template name="wrap" value="const wrapper = shallow(&lt;$NAME$ {...defaultProps} /&gt;);" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="substringBefore(fileNameWithoutExtension(), &quot;.&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
