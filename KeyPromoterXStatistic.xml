@@ -185,6 +185,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ClientProjectServiceSpec.markAsArchived shall mark as archived and return demandBlob with new archive status'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ClientProjectServiceSpec.markAsArchived shall mark as archived and return demandBlob with new archive status'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ClientProjectServiceSpec.updateClientProjectDemand shall update existing demand with the values provided in the input demand and return a joined demand blob'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
