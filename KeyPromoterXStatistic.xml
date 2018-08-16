@@ -145,6 +145,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Open Gradle config">
+        <Item>
+          <IdeaActionID>ExternalSystem.OpenConfig</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Gradle config</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -351,6 +359,14 @@
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'AD-service'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AbsenceServiceIntegrationSpec'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'AbsenceServiceIntegrationSpec'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'All in scale-api_test (1)'">
