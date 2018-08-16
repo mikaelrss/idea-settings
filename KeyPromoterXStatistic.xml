@@ -241,6 +241,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'Rerun Failed Tests'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'StudyServiceSpec.updateStudyDemand shall create a new Demand with demandCategory Study and add values from inputDemand'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -382,7 +390,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
     </option>
