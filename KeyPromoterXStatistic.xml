@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>194</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -150,7 +150,7 @@
           <IdeaActionID>ExternalSystem.OpenConfig</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Gradle config</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -286,7 +286,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -385,6 +385,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CapacityReportIntegrationSpec.Calculate capacity and own capacity for a CapacityReport'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'CapacityReportIntegrationSpec.Calculate capacity and own capacity for a CapacityReport'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ClientProjectServiceSpec.addClientProjectDemand shall create a new demand with CLIENT_PROJECT type and all values from input'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -430,7 +438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>47</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
