@@ -12,6 +12,9 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl alt back_space" />
   </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -69,6 +72,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
