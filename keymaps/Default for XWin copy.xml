@@ -83,4 +83,7 @@
   <action id="TabsPlacementRight">
     <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
+  <action id="Tool_External Tools_prettier">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
 </keymap>
