@@ -86,6 +86,9 @@
   <action id="TabsPlacementRight">
     <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift ctrl at" />
+  </action>
   <action id="Tool_External Tools_prettier">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
