@@ -542,7 +542,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'CapacityReportIntegrationSpec.Should drop in capacity when a local resource is lent out to a different department'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClientProjectServiceSpec.addClientProjectDemand shall create a new demand with CLIENT_PROJECT type and all values from input'">
