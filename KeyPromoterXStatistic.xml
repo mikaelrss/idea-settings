@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>359</Count>
+          <Count>361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -465,6 +465,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'FE - test' with Coverage">
+        <Item>
+          <IdeaActionID>Coverage</IdeaActionID>
+          <ShortCut>'⌃⇧F11'</ShortCut>
+          <Description>Run 'FE - test' with Coverage</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Find capacity for ...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -582,7 +590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'FE - test'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
