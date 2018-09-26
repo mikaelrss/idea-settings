@@ -102,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>361</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -470,7 +470,7 @@
           <IdeaActionID>Coverage</IdeaActionID>
           <ShortCut>'⌃⇧F11'</ShortCut>
           <Description>Run 'FE - test' with Coverage</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Find capacity for ...()'">
