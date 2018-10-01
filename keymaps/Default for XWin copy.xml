@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateFlowToolWindow">
+    <keyboard-shortcut first-keystroke="alt a_with_ring_above" />
+  </action>
   <action id="ActivateHierarchyToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
