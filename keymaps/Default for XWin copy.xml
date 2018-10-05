@@ -1,4 +1,8 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFlowToolWindow">
     <keyboard-shortcut first-keystroke="alt a_with_ring_above" />
   </action>
