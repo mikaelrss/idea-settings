@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>436</Count>
+          <Count>437</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -390,6 +390,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DemandServiceSpec.updateTenderDemand shall move adjacent demandRoles and demandAllocations if keep duration is true'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DepartmentTreeUtils.filterOrganizationsTreeByLegalEntity.shall filter out departments which do not contain legalEntity passed'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DepartmentTreeUtils.filterOrganizationsTreeByLegalEntity.shall filter out departments which do not contain legalEntity passed'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
