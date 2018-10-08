@@ -398,7 +398,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'DepartmentTreeUtils.filterOrganizationsTreeByLegalEntity.shall filter out departments which do not contain legalEntity passed'</Description>
-          <Count>37</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PersonQueryResolverIntegrationSpec'">
