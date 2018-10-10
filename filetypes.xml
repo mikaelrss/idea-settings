@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="DemandContactServiceIntegrationSpec" type="Groovy" />
+      <mapping ext="svg " type="SVG" />
     </extensionMap>
   </component>
 </application>
