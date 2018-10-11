@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⌘A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>24</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -478,7 +478,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AD Service'">
