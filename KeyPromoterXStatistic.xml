@@ -46,7 +46,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⌃⇧C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌥2'</ShortCut>
           <Description>Database</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -646,7 +646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'AD Service'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AD-service'">
@@ -742,7 +742,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'⌃⌥Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
