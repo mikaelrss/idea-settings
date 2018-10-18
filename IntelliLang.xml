@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="PostgreSQL" injector-id="java">
+      <display-name>Formula.value (org.hibernate.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.hibernate.annotations.Formula")]]></place>
+    </injection>
+  </component>
+</application>
