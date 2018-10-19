@@ -4,5 +4,9 @@
       <display-name>Formula.value (org.hibernate.annotations)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.hibernate.annotations.Formula")]]></place>
     </injection>
+    <injection language="PostgreSQL" injector-id="java">
+      <display-name>PersonRepository.findOwnedByDemandRoleRowUuid (com.fmcti.dsi.scale.person)</display-name>
+      <place><![CDATA[psiMethod().withName("findOwnedByDemandRoleRowUuid").withParameters("java.lang.String").definedInClass("com.fmcti.dsi.scale.person.PersonRepository")]]></place>
+    </injection>
   </component>
 </application>
