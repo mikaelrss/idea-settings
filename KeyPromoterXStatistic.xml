@@ -25,6 +25,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close All In Group">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <ShortCut>'⌃⌥⇧W'</ShortCut>
+          <Description>Close All In Group</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit">
         <Item>
           <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
