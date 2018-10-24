@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⌘A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -806,7 +806,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>216</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
