@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌥2'</ShortCut>
           <Description>Database</Description>
-          <Count>29</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -566,7 +566,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>240</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -862,7 +862,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>261</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
