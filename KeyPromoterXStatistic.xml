@@ -505,6 +505,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ManagedDepartmentsPickerWithOverlay'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ManagedDepartmentsPickerWithOverlay'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ManagedDepartmentsPickerWithOverlay.Shall display overlay on button click'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -518,7 +526,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ManagedDepartmentsPickerWithOverlay.Shall set department on item click'</Description>
-          <Count>23</Count>
+          <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ManagedDepartmentsPickerWithOverlay.test.js'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ManagedDepartmentsPickerWithOverlay.test.js'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PersonQueryResolverIntegrationSpec'">
