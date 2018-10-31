@@ -513,6 +513,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ManagedDepartmentsPickerWithOverlay.Shall set department on item click'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'ManagedDepartmentsPickerWithOverlay.Shall set department on item click'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'PersonQueryResolverIntegrationSpec'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
