@@ -518,7 +518,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'ManagedDepartmentsPickerWithOverlay.Shall set department on item click'</Description>
-          <Count>10</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PersonQueryResolverIntegrationSpec'">
@@ -721,6 +721,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Shall set department on item click'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧F10'</ShortCut>
+          <Description>Run 'Shall set department on item click'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Safe Delete...">
         <Item>
           <IdeaActionID>SafeDelete</IdeaActionID>
@@ -870,7 +878,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>263</Count>
+          <Count>264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
