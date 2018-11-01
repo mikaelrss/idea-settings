@@ -489,6 +489,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DepartmentServiceSpecUpdateDepartmentManager.getRelationToUser'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DepartmentServiceSpecUpdateDepartmentManager.getRelationToUser'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DepartmentTreeUtils.filterOrganizationsTreeByLegalEntity.shall filter out departments which do not contain legalEntity passed'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -590,7 +598,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>245</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -809,6 +817,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'All in scale-api_test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'All in scale-api_test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'CapacityReportIntegrationSpec.Calculate capacity and own capacity for a CapacityReport'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -894,7 +910,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>265</Count>
+          <Count>274</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
