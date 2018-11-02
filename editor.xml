@@ -6,4 +6,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_CARET_INSIDE_TABS" value="true" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
 </application>
