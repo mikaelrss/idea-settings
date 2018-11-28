@@ -150,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -198,7 +198,7 @@
           <IdeaActionID>NewFile</IdeaActionID>
           <ShortCut>'⌃⌥Help'</ShortCut>
           <Description>File</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
