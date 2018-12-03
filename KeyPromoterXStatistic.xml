@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⇧F9'</ShortCut>
           <Description>Debug 'Unnamed'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -919,6 +919,14 @@
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'Shall set department on item click'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unnamed'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'Unnamed'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
