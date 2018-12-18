@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
