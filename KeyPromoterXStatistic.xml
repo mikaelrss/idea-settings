@@ -545,6 +545,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'DemandRoleList.shall render link to allocation if it is a part of managedDepartment'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'DemandRoleList.shall render link to allocation if it is a part of managedDepartment'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DemandRoleRow.InvalidAllocations.shall only create invalid allocations of allocations with related property set to true'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -774,7 +782,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AD Service CI'">
