@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'⌃⌘A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -766,7 +766,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>606</Count>
+          <Count>607</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
