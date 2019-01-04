@@ -46,7 +46,7 @@
           <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
           <ShortCut>'⌃⌥⇧⏎'</ShortCut>
           <Description>Commit</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -310,7 +310,7 @@
           <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Gradle config">
@@ -382,7 +382,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>73</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
