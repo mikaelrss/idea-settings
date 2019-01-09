@@ -465,6 +465,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CapacityPeriodChangeProcessorTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CapacityPeriodChangeProcessorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CapacityReportIntegrationSpec'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
