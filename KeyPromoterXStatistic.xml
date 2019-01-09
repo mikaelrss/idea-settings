@@ -158,7 +158,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>553</Count>
+          <Count>554</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CapacityPeriodChangeProcessorTest'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CapacityPeriodChangeProcessorTest.shall return the new allocation and allocation to be removed when FromToDate matches with existing allocation '">
