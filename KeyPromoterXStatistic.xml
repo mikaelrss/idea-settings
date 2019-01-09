@@ -54,7 +54,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -470,7 +470,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CapacityPeriodChangeProcessorTest'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CapacityPeriodChangeProcessorTest.shall return the new allocation and allocation to be removed when FromToDate matches with existing allocation '">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CapacityPeriodChangeProcessorTest.shall return the new allocation and allocation to be removed when FromToDate matches with existing allocation '</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CapacityPeriodChangeProcessorTest.shall return the new allocation when no allocation exists form before '">
@@ -478,7 +486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CapacityPeriodChangeProcessorTest.shall return the new allocation when no allocation exists form before '</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CapacityReportIntegrationSpec'">
