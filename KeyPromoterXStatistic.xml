@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>18</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -438,7 +438,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All Tests'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in scale-api_test (1)'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'All in scale-api_test (2)'</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'All in scale-api_test'">
@@ -479,6 +479,14 @@
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Rerun 'CapacityPeriodChangeProcessorTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CapacityPeriodChangeProcessorTest.shall merge consecutive allocations when capacity changes to match'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'CapacityPeriodChangeProcessorTest.shall merge consecutive allocations when capacity changes to match'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CapacityPeriodChangeProcessorTest.shall return the new allocation and allocation to be removed when FromToDate matches with existing allocation '">
@@ -862,7 +870,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CapacityReportIntegrationSpec'">
