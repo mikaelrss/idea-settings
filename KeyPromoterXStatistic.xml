@@ -1030,7 +1030,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'AD Service CI'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AD Service'">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>592</Count>
+          <Count>596</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
