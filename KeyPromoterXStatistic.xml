@@ -977,6 +977,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'InternalProjectDemandServiceSpec'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'InternalProjectDemandServiceSpec'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ModifyDemandAllocationServiceSpec'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
