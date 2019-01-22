@@ -1070,7 +1070,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌃⌥⇧U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AD Service CI'">
