@@ -20,7 +20,7 @@
     <mask>*.j</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.groovy</mask>
-    <mask>*.graphqls</mask>
     <mask>*.kt</mask>
+    <mask>*.graphqls</mask>
   </component>
 </application>
