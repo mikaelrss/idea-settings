@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>62</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌥2'</ShortCut>
           <Description>Database</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
