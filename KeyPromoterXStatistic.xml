@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -182,7 +182,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>50</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
