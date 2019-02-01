@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>103</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
