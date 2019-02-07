@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.groovy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,9 +19,9 @@
     <mask>!*.js</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
-    <mask>*.groovy</mask>
     <mask>*.graphqls</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
+    <mask>*.groovy</mask>
   </component>
 </application>
