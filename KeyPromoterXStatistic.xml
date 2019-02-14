@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌃F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>120</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close">
@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>616</Count>
+          <Count>617</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">

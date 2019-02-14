@@ -20,9 +20,9 @@
     <mask>*.groovy</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.graphqls</mask>
     <mask>*.kt</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
