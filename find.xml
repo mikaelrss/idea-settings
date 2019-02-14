@@ -19,9 +19,11 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.groovy</mask>
-    <mask>*.js</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.kt</mask>
+    <mask>*.js</mask>
+    <mask>*.tsx</mask>
+    <mask>*.ts</mask>
     <mask>*.graphqls</mask>
   </component>
 </application>
