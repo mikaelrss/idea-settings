@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="DemandContactServiceIntegrationSpec" type="Groovy" />
       <mapping pattern="GraphQLErrorExtensions" type="PLAIN_TEXT" />
       <mapping pattern="WebSocketConfig.java" type="PLAIN_TEXT" />
       <mapping pattern=".prettierc" type="PLAIN_TEXT" />
+      <mapping ext="66" type="PLAIN_TEXT" />
       <mapping ext="svg " type="SVG" />
     </extensionMap>
   </component>
