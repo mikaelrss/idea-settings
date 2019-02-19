@@ -873,6 +873,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'calculateNearestQuarter.shall return july as a moment date when inputing august as a string start date'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5'</ShortCut>
+          <Description>Rerun 'calculateNearestQuarter.shall return july as a moment date when inputing august as a string start date'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'findAdjacentCells'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -902,7 +910,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌥4'</ShortCut>
           <Description>Run</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AD Service CI'">
