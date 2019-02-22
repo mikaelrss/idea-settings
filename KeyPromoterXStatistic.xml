@@ -46,7 +46,7 @@
           <IdeaActionID>Console.Transaction.Commit</IdeaActionID>
           <ShortCut>'⌃⌥⇧⏎'</ShortCut>
           <Description>Commit</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -422,7 +422,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌃F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>130</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
