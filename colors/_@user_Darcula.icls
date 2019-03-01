@@ -3,7 +3,7 @@
     <property name="created">2019-03-01T14:40:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-01T14:44:09</property>
+    <property name="modified">2019-03-01T15:14:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -27,4 +27,51 @@
     <option name="FILESTATUS_addedOutside" value="8f9d6a" />
     <option name="FILESTATUS_modifiedOutside" value="7587a6" />
   </colors>
+  <attributes>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="da70d6" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="da70d6" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="ffd700" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="da70d6" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
