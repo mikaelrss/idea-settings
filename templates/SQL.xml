@@ -1,9 +1,0 @@
-<templateSet group="SQL">
-  <template name="tab" value="create table $table$ (&#10;  $col$ $type$ $null$$END$&#10;);" description="new table definition" toReformat="true" toShortenFQNames="false">
-    <variable name="table" expression="" defaultValue="&quot;new_table&quot;" alwaysStopAt="true" />
-    <variable name="col" expression="" defaultValue="&quot;col&quot;" alwaysStopAt="true" />
-    <variable name="type" expression="" defaultValue="&quot;int&quot;" alwaysStopAt="true" />
-    <variable name="null" expression="" defaultValue="&quot;not null&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>
