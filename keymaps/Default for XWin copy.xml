@@ -8,6 +8,12 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Diagram.DeselectAll" />
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl meta delete" />
+  </action>
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl meta back_space" />
+  </action>
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
