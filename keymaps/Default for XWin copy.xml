@@ -39,6 +39,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt help" />
+  </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
