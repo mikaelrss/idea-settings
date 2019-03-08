@@ -16,7 +16,15 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Diagram.DeselectAll" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorDeleteToWordEndInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl meta delete" />
   </action>
@@ -42,6 +50,8 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl alt help" />
   </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
