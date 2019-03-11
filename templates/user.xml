@@ -5,4 +5,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="desrc" value="describe(&quot;&quot;, () =&gt; {&#10;  &#10;});" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
