@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift meta 7" />
     <keyboard-shortcut first-keystroke="shift meta alt 7" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
