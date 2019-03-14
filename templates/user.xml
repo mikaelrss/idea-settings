@@ -5,13 +5,13 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="desrc" value="describe(&quot;&quot;, () =&gt; {&#10;  &#10;});" toReformat="true" toShortenFQNames="true">
+  <template name="desrc" value="describe(&quot;&quot;, () =&gt; {&#10;  &#10;});" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="sp" value="&lt;span&gt;$END$&lt;/span&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="sp" value="&lt;span&gt;$END$&lt;/span&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSX_HTML" value="true" />
       <option name="JS_EXPRESSION" value="true" />
