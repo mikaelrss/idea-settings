@@ -18,14 +18,14 @@
       <option name="TS_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="fr" value="&lt;&gt;$END$&lt;/&gt;" toReformat="true" toShortenFQNames="true">
+  <template name="fr" value="&lt;&gt;$END$&lt;/&gt;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSX_HTML" value="true" />
       <option name="JS_EXPRESSION" value="true" />
       <option name="TS_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="ig" value="// @ts-ignore" toReformat="true" toShortenFQNames="true">
+  <template name="ig" value="// @ts-ignore" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
       <option name="TS_STATEMENT" value="true" />
