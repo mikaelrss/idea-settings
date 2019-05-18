@@ -19,10 +19,22 @@
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="Kotlin.RunScratch" />
+  <action id="MoveElementLeft" />
+  <action id="MoveElementRight" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="NextOccurence" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
   <action id="PreviousOccurence" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="SurroundWith" />
 </keymap>
