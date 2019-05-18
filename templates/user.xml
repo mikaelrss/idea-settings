@@ -44,4 +44,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="aph" value="import { StyleSheet, css } from 'aphrodite/no-important';&#10;&#10;const styles = StyleSheet.create({&#10;    $END$  &#10;})" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
