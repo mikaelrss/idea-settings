@@ -31,4 +31,17 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="acl" value="className={css(styles.$END$)}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TS_CLASS" value="false" />
+      <option name="TS_EXPRESSION" value="false" />
+      <option name="TS_STATEMENT" value="false" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
