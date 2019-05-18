@@ -4,6 +4,7 @@
       <mapping pattern="RankList" type="PLAIN_TEXT" />
       <mapping pattern="PlayerContainer.tsx" type="PLAIN_TEXT" />
       <mapping ext="ts&lt;" type="PLAIN_TEXT" />
+      <mapping pattern="AddRank" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
