@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="RankList" type="PLAIN_TEXT" />
       <mapping pattern="PlayerContainer.tsx" type="PLAIN_TEXT" />
       <mapping ext="ts&lt;" type="PLAIN_TEXT" />
     </extensionMap>
