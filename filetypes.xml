@@ -5,6 +5,7 @@
       <mapping pattern="PlayerContainer.tsx" type="PLAIN_TEXT" />
       <mapping ext="ts&lt;" type="PLAIN_TEXT" />
       <mapping pattern="AddRank" type="TypeScript JSX" />
+      <mapping pattern="EditableTitle" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
