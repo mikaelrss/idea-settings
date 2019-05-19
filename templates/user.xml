@@ -50,4 +50,10 @@
       <option name="TS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="db" value="await dbClient.query(query, values)" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
