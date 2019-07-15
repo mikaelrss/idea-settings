@@ -3,7 +3,7 @@
     <property name="created">2019-03-01T14:40:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-06-16T13:32:48</property>
+    <property name="modified">2019-07-15T20:15:15</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -22,7 +22,6 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6299c4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6299c4" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
