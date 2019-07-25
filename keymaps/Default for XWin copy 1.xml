@@ -9,4 +9,7 @@
   </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
 </keymap>
