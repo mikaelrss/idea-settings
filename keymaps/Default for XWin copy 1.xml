@@ -1,0 +1,12 @@
+<keymap version="1" name="Default for XWin copy 1" parent="Default for XWin">
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+</keymap>
