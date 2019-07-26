@@ -13,9 +13,13 @@
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+  </action>
   <action id="NextOccurence" />
   <action id="PreviousOccurence" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="SurroundWith" />
 </keymap>
